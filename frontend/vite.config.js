@@ -18,6 +18,6 @@ export default defineConfig({
     },
   },
   server: {
-    allowedHosts: ['frontend-production-25ff.up.railway.app']
+    allowedHosts: ['growtrack.up.railway.app']
   }
 })
